@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ak8bul Hasan Hridoy
+- 👋 Hi, I’m Akibul Hasan Hridoy
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning  My sql
 - 💞️ I’m looking to collaborate on ...
